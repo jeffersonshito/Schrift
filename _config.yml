@@ -19,7 +19,7 @@ future:      true
 lsi:         false
 highlighter: pygments
 markdown:    kramdown
-permalink:   none
+permalink:   /:title/
 auto_ids:    true
 
 #
